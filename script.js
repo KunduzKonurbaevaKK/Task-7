@@ -20,8 +20,5 @@ btn.addEventListener("click", (e) => {
     Todo.removeChild(listItem);
    }
   }
-
-  
-
   
 });
